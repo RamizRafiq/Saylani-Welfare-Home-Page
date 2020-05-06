@@ -1,0 +1,489 @@
+body{
+    background-color: rgb(150, 150, 150);
+    
+    }
+    
+    
+    div.box{
+
+    box-sizing: content-box;
+    background-color: royalblue;
+    padding-bottom: 10px;
+    top: 0%;
+    /* width: 100%; */
+    margin: 0%;
+    
+    
+    
+    }
+    
+    img.logo{
+    
+    width: 20px;
+    height: 20px;
+    
+    }
+    .head{
+
+        display: flex;
+        justify-content: center;
+     /* align-self: center; */
+    }
+    
+
+
+    li{
+        
+    
+    list-style: none;
+    
+    /* padding-left:10px; */
+    }
+    
+    .space{
+    margin-left: 15px;
+    
+    
+    }
+    .logo:hover{
+    
+    background-color:rgb(37, 83, 223) ;
+    padding: 4px;
+    }
+    p.line{
+        color:white;
+        /* padding-left: 30px; */
+    text-align: center;
+    font-family: sans-serif;
+    font-weight: 510;
+    font-size: 15px;
+    }
+    .btnn{
+    color: #427900;
+    font-size: 12px;
+    padding: 3px 7px;
+    
+    
+    }
+button{
+
+    background-color: white;
+border: 1px solid #427900;
+}
+
+
+    div.btnn{
+        justify-content:center;  
+    
+         
+    }
+.gapbut{
+
+padding-left: 5px;
+
+}
+
+
+    .saylani{
+
+        width:190px ;
+        height: 50px;
+        
+        }
+        
+        
+        
+    
+        h2.intro{
+
+
+            
+            font-weight: 600;
+            color: rgb(93, 93, 196);
+            font-size: 1.8em;
+            font-family: 'Merriweather', serif;
+
+            
+            
+            }
+            h2.duction{
+            
+            color: rgb(18, 140, 18);
+            font-weight: 600;
+            
+            font-size: 1.8em;
+            font-family: 'Merriweather', serif;
+            
+            }
+
+
+            .alignn{
+
+                padding-top: 20px;
+                justify-content: center;
+                  padding-bottom: 15px;
+                
+            }
+
+
+
+           
+
+            .paragraph{
+                color:grey;
+                /* text-align: justify; */
+                /* word-spacing: 1px; */
+                line-height: 180%;
+                font-size: 14px;
+                text-indent: 0em;
+                word-spacing: 0.1em;
+                font-family: 'Lato', sans-serif;
+                font-weight: 100;
+                flex-direction: column;
+                
+                
+                }
+                
+                div.paragraph{
+                margin:0px 40px 0px 20px;
+                text-align: justify;
+                padding: 0px;
+                }
+                .paraspace{
+                padding-bottom: 15px;
+                
+                }
+                
+                .secondbox{
+                /* margin:20px 0px 0px 10px; */
+                /* margin-right: 5px; */
+                margin-top: 10%;
+                padding: 0;
+                background-color:#3561e6;
+                background-position: 100%;
+                background-size: cover;
+                height: 500px;
+                
+                /* overflow-x: hidden; */
+                /* width: 95%; */
+                /* overflow-x: hidden; */
+                }
+
+                .font{
+
+                    font-family: 'PT Sans', sans-serif;
+                    font-family: 'Merriweather', serif;
+                }
+                
+                .fhead{
+                
+                margin: 0%;
+                color: white;
+                text-transform: uppercase;
+                padding-left: 60px;
+                font-size: 3em;
+                
+                }
+                .number{
+                    margin: 0%;
+                color:white;
+                text-transform: uppercase;
+                display: inline-block;
+                font-weight: 550;
+                font-size: 14px;
+                }
+                
+                .green{
+                
+                color:rgb(0, 255, 0);
+                font-size: 18px;
+                word-spacing: 0.05em;
+                
+                }
+                
+               
+
+
+                .divmove{
+padding:50px 0px 30px 0px;
+justify-content: space-evenly;
+
+                }
+                .divmove1{
+padding-left: 60px;
+
+                }
+                .wrap{
+
+                    flex-wrap: wrap;
+                }
+                
+                img.aa{
+                /* padding-top: 30px;  */
+                padding-left: 120px;  
+                 
+                width: 160px;
+                /* background-color:blue ; */
+                
+                }
+
+
+/* What we */
+.newhead{
+    padding-top: 60px;
+text-transform: uppercase;
+justify-content: center;
+
+}
+
+.bluehead{
+    text-transform: uppercase;
+    padding-left: 7px;
+    
+color: rgb(18, 140, 18);
+            font-weight: 600;
+            
+            font-size: 1.8em;
+            font-family: 'Merriweather', serif;
+}
+
+.sqbox{
+    box-shadow: 0px 8px 20px 0px rgba(0, 0, 0, 0.16);
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+
+
+/* background-color:rgb(253, 251, 251); */
+/* hsl(120, 100%, 99%)  */
+/* border: 0.05px solid white; */
+width: 350px;
+/* flex: 4; */
+height: 180px;
+
+}
+.smallbox{
+    /* padding-top: 120px; */
+    /* padding-right: 80px; */
+color: blue;
+text-align: center;
+/* align-items: center; */
+}
+.boxmar{
+margin: 15px;
+
+
+}
+.boxlogo{
+    /* justify-content: center;
+display: flex;
+flex-direction: row; */
+padding-top: 10px;
+width: 100px;
+height: 90px;
+}
+.unbox{
+    box-shadow: 0px 8px 20px 0px rgba(189, 189, 189, 0.342);
+    background-color: hsla(204, 82%, 56%, 0.1);
+    width: 330px;
+    height: 80px;
+    border: 1px solid hsla(204, 82%, 56%, 0.2) ;
+    margin-right: 30px;
+    margin-bottom: 20px;
+
+}
+
+.unhead{
+    color: #316DC3;
+    /* padding: 30px 30px; */
+    /* padding-left: 80px; */
+    /* align-items: horizontal; */
+    font-size: 15px;
+    font-weight: 600;
+    font-family: 'Merriweather', serif;
+display: inline-flex;
+padding-top: 30px;
+}
+.unimg{
+
+    padding-right: 30px;
+    padding-left: 15px;
+    /* margin-top: 30px; */
+}
+
+
+.phonelogo{
+
+width: 20px;
+height: 20px;
+
+}
+
+
+
+
+
+
+
+
+hr{
+
+  background-color:green;
+ /* bottom: -1px; */
+ /* content: " "; */
+ /* left: 0; */
+ /* position: absolute; */
+ padding: 0;
+ margin: 0;
+  width: 50px;
+  
+  /* height: 200px; */
+  /* size: 50px; */
+  /* border:20px solid green; */
+}
+
+                .lastbox{
+
+margin-left: 50px;
+margin-top: 50px;
+
+                }
+
+                .greybox{
+                    margin: 0%;
+                    padding: 0%;
+                    color: lightgrey;
+                    height: 350px;
+                
+
+background-color: rgb(43, 42, 42);
+
+
+
+                }
+
+                .textwhite{
+                    color: white;
+
+
+                }
+
+                .move{
+padding-top: 80px;
+padding-left: 25px;
+
+
+                }
+                ul li{
+
+list-style-type: none;
+
+
+                }
+
+                .slideimg{
+width: 100%;
+                    height: 250px;
+                }
+
+                .conn{
+
+                    font-size: 1em;
+                    font-weight: bold;
+                }
+                .greylogo{    
+
+                    width: 30px;
+                    padding-right: 10px;
+                }
+
+                .marq{
+margin-top: 10px;
+                    color: white;
+                    background-color:  #316DC3;
+                    padding-bottom: 5px;
+                    margin-bottom: 30px;
+                }
+
+                .news{
+
+                    color: rgb(0, 255, 0);;
+                }
+                .more{
+
+                    color: rgb(0, 0, 255);
+                }
+
+                .mission{
+
+margin-top: 15%;
+box-shadow: 0px 8px 20px 0px rgba(0, 0, 0, 0.16);
+height: 1350px;
+padding-top: 50px;
+padding-left: 25px;
+
+
+                }
+                .misshead{
+
+                    color: #316DC3 ;
+                font-weight: 600;
+                line-height: 1.42857143;
+                font-family: 'Merriweather', serif;
+                
+                }
+
+
+
+
+
+
+
+
+
+
+
+
+                .last2box{
+                    margin: 0px 15px;
+                    padding-top: 15px;
+                    padding-bottom:5px ;
+                    padding-left: 30px;
+background-color: #3561e6;
+color: white;
+background-size: cover;
+background-position: 100%;
+font-size: 12px;
+
+}
+
+.marqu{
+    color:grey;
+    /* margin-right: 400px; */
+/* margin-bottom: 400px; */
+padding-bottom: 150px;
+font-size: 15px;
+}
+
+.marsize{
+
+width: 260px;
+height: 180px;
+
+
+}
+.imggallery{
+
+    padding-top: 100px;
+}
+.rashan{
+
+width: 240px;
+height: 150px;
+padding-right: 2px;
+/* padding-bottom: 200px; */
+margin-bottom: 150px;
+
+}
